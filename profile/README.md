@@ -1,3 +1,2 @@
-## Cambridge Networks Network
-
-Founded in 2011, originally with the aim of bringing together faculty, post docs and research students from a wide range of departments at the University of Cambridge who share an interest in Complex Networks.
+## Complex Networks at Cambridge
+Founded in 2011, our initiative brings together researchers interested in complexity and networks across the University of Cambridge — and now beyond.
